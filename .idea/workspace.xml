@@ -50,23 +50,11 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GB\Unit-tests-example\unit-tests-1\src\test\java" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.seminars.third" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.VehicleTest.testCar4Wheels">
-    <configuration name="Calculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="unit-tests-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.Calculator" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MetodsTest">
     <configuration name="Calculator.calculateDiscountArithmeticExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unit-tests-1" />
       <extension name="coverage">
@@ -79,6 +67,26 @@
       <option name="MAIN_CLASS_NAME" value="first.Calculator" />
       <option name="METHOD_NAME" value="calculateDiscountArithmeticExceptionTest" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetodsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-tests-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="third.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="org.seminars.third.hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="third" />
+      <option name="MAIN_CLASS_NAME" value="third.MetodsTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -131,19 +139,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.MetodsTest" />
       <item itemvalue="JUnit.VehicleTest" />
       <item itemvalue="JUnit.VehicleTest.testCar4Wheels" />
       <item itemvalue="JUnit.VehicleTest.testCarVehicleInstance" />
-      <item itemvalue="JUnit.Calculator" />
       <item itemvalue="JUnit.Calculator.calculateDiscountArithmeticExceptionTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MetodsTest" />
         <item itemvalue="JUnit.VehicleTest.testCar4Wheels" />
         <item itemvalue="JUnit.VehicleTest" />
         <item itemvalue="JUnit.VehicleTest.testCarVehicleInstance" />
         <item itemvalue="JUnit.Calculator.calculateDiscountArithmeticExceptionTest" />
-        <item itemvalue="JUnit.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +175,10 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/unit_tests_1$Calculator_calculateDiscountArithmeticExceptionTest.ic" NAME="Calculator.calculateDiscountArithmeticExceptionTest Coverage Results" MODIFIED="1696878072463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>first.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/unit_tests_1$MetodsTest.ic" NAME="MetodsTest Coverage Results" MODIFIED="1697099558391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>third.*</FILTER>
+      <FILTER>org.seminars.third.hw.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/unit_tests_1$VehicleTest_testCarVehicleInstance.ic" NAME="VehicleTest.testCarVehicleInstance Coverage Results" MODIFIED="1697092549374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>second.*</FILTER>
