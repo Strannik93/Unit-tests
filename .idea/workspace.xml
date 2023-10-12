@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fbb9897-ab86-4d0a-ba3f-1977969970bd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/seminars/first/Calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/seminars/first/Calculator/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,26 +32,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GB\Unit-tests-example\unit-tests-1\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Calculator.calculateDiscountArithmeticExceptionTest">
+  <component name="RunManager" selected="JUnit.VehicleTest.testCar4Wheels">
     <configuration name="Calculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unit-tests-1" />
       <extension name="coverage">
@@ -85,50 +83,67 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator.calculateDiscountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VehicleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unit-tests-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first.*" />
+          <option name="PATTERN" value="second.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.Calculator" />
-      <option name="METHOD_NAME" value="calculateDiscountTest" />
+      <option name="PACKAGE_NAME" value="second" />
+      <option name="MAIN_CLASS_NAME" value="second.VehicleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleTest.testCar4Wheels" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-tests-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="second" />
+      <option name="MAIN_CLASS_NAME" value="second.VehicleTest" />
+      <option name="METHOD_NAME" value="testCar4Wheels" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="first in unit-tests-1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VehicleTest.testCarVehicleInstance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unit-tests-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="unit-tests.first.*" />
+          <option name="PATTERN" value="second.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="PACKAGE_NAME" value="second" />
+      <option name="MAIN_CLASS_NAME" value="second.VehicleTest" />
+      <option name="METHOD_NAME" value="testCarVehicleInstance" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.VehicleTest" />
+      <item itemvalue="JUnit.VehicleTest.testCar4Wheels" />
+      <item itemvalue="JUnit.VehicleTest.testCarVehicleInstance" />
       <item itemvalue="JUnit.Calculator" />
       <item itemvalue="JUnit.Calculator.calculateDiscountArithmeticExceptionTest" />
-      <item itemvalue="JUnit.Calculator.calculateDiscountTest" />
-      <item itemvalue="JUnit.first in unit-tests-1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.VehicleTest.testCar4Wheels" />
+        <item itemvalue="JUnit.VehicleTest" />
+        <item itemvalue="JUnit.VehicleTest.testCarVehicleInstance" />
         <item itemvalue="JUnit.Calculator.calculateDiscountArithmeticExceptionTest" />
         <item itemvalue="JUnit.Calculator" />
-        <item itemvalue="JUnit.Calculator.calculateDiscountTest" />
-        <item itemvalue="JUnit.first in unit-tests-1" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +167,12 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/unit_tests_1$Calculator_calculateDiscountArithmeticExceptionTest.ic" NAME="Calculator.calculateDiscountArithmeticExceptionTest Coverage Results" MODIFIED="1696878072463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>first.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/unit_tests_1$VehicleTest_testCarVehicleInstance.ic" NAME="VehicleTest.testCarVehicleInstance Coverage Results" MODIFIED="1697092549374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>second.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/unit_tests_1$VehicleTest.ic" NAME="VehicleTest Coverage Results" MODIFIED="1697092594946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>second.*</FILTER>
     </SUITE>
   </component>
 </project>
