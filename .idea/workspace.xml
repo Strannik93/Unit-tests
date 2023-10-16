@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1fbb9897-ab86-4d0a-ba3f-1977969970bd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit-tests-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/unit-tests-1.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,20 +33,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/GB/Unit-tests-example/unit-tests-1/libs/byte-buddy-agent-1.12.22.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JAVA&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GB\Unit-tests-example\unit-tests-1\src\test\java" />
@@ -54,18 +60,33 @@
       <recent name="org.seminars.third" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MetodsTest">
-    <configuration name="Calculator.calculateDiscountArithmeticExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BookServiceTest">
+    <configuration name="BookServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unit-tests-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first.*" />
+          <option name="PATTERN" value="fourth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.Calculator" />
-      <option name="METHOD_NAME" value="calculateDiscountArithmeticExceptionTest" />
+      <option name="PACKAGE_NAME" value="fourth" />
+      <option name="MAIN_CLASS_NAME" value="fourth.BookServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookServiceTest.testFindBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-tests-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fourth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fourth" />
+      <option name="MAIN_CLASS_NAME" value="fourth.BookServiceTest" />
+      <option name="METHOD_NAME" value="testFindBook" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,36 +143,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleTest.testCarVehicleInstance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="unit-tests-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="second.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="second" />
-      <option name="MAIN_CLASS_NAME" value="second.VehicleTest" />
-      <option name="METHOD_NAME" value="testCarVehicleInstance" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="JUnit.BookServiceTest" />
+      <item itemvalue="JUnit.BookServiceTest.testFindBook" />
       <item itemvalue="JUnit.MetodsTest" />
       <item itemvalue="JUnit.VehicleTest" />
       <item itemvalue="JUnit.VehicleTest.testCar4Wheels" />
-      <item itemvalue="JUnit.VehicleTest.testCarVehicleInstance" />
-      <item itemvalue="JUnit.Calculator.calculateDiscountArithmeticExceptionTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BookServiceTest" />
+        <item itemvalue="JUnit.BookServiceTest.testFindBook" />
         <item itemvalue="JUnit.MetodsTest" />
         <item itemvalue="JUnit.VehicleTest.testCar4Wheels" />
         <item itemvalue="JUnit.VehicleTest" />
-        <item itemvalue="JUnit.VehicleTest.testCarVehicleInstance" />
-        <item itemvalue="JUnit.Calculator.calculateDiscountArithmeticExceptionTest" />
       </list>
     </recent_temporary>
   </component>
